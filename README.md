@@ -19,7 +19,7 @@ Meu foco é conectar **engenharia, dados e tecnologia** para reduzir tarefas rep
 
 ## 🚀 Projetos em destaque
 
-**Uma identidade, diferentes soluções.** Projetos de engenharia, dados e automação com a mesma linguagem visual em azul petróleo e turquesa — cada ferramenta com um objetivo operacional próprio. [Conheça o manual de identidade visual](IDENTIDADE_VISUAL.md).
+**Uma identidade, diferentes soluções.** Projetos de engenharia, dados e automação com a mesma linguagem visual em azul petróleo e turquesa — cada ferramenta com um objetivo operacional próprio. [Conheça o manual de identidade visual](IDENTIDADE_VISUAL.md). Para criar um novo projeto, utilize o [template mestre de README](README_TEMPLATE.md), baseado no Reliability Lab.
 
 | Projeto | Aplicação prática | Acessar |
 | :--- | :--- | :--- |
