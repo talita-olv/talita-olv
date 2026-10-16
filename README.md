@@ -21,6 +21,7 @@ Meu foco é conectar **engenharia, dados e tecnologia** para reduzir tarefas rep
 
 | Projeto | Aplicação prática | Acessar |
 | :--- | :--- | :--- |
+| **Reliability Lab** | Laboratório de confiabilidade com FMEA, matriz de risco, importação Excel e relatório PDF. | [Código e guia](https://github.com/talita-olv/reliability-lab) |
 | **Mapa de 52 Semanas** | Planejamento anual de manutenção, ciclos e estratégias, carga semanal e exportação de dados. | [Código](https://github.com/talita-olv/mapa-52-semanas) · [Demo](https://talita-olv.github.io/mapa-52-semanas/) |
 | **SmartRoute** | Roteirização e programação de atendimentos por equipe, prioridade e localização, com mapa interativo. | [Código](https://github.com/talita-olv/smart-route) · [Demo](https://talita-olv.github.io/smart-route/) |
 
