@@ -19,7 +19,7 @@ Meu foco é conectar **engenharia, dados e tecnologia** para reduzir tarefas rep
 
 ## 🚀 Projetos em destaque
 
-**Uma identidade, diferentes soluções.** Projetos de engenharia, dados e automação com a mesma linguagem visual em azul petróleo e turquesa — cada ferramenta com um objetivo operacional próprio.
+**Uma identidade, diferentes soluções.** Projetos de engenharia, dados e automação com a mesma linguagem visual em azul petróleo e turquesa — cada ferramenta com um objetivo operacional próprio. [Conheça o manual de identidade visual](IDENTIDADE_VISUAL.md).
 
 | Projeto | Aplicação prática | Acessar |
 | :--- | :--- | :--- |
